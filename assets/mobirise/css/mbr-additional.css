@@ -1484,73 +1484,14 @@ body {
     font-size: 40px !important;
   }
 }
-.cid-ryLPCHl4L1 {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-ryMHqFbnlG {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-ryLPCHl4L1 h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-ryLPCHl4L1 .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-ryLPCHl4L1 .mbr-section-subtitle {
+.cid-ryMHqFbnlG .mbr-text,
+.cid-ryMHqFbnlG blockquote {
   color: #767676;
-}
-.cid-ryLPCHl4L1 .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-ryLPCHl4L1 ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-ryLPCHl4L1 path {
-  stroke: #149dcc;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-ryLPCHl4L1 .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
-.cid-ryLPDUvOMk {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-ryLPDUvOMk h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-ryLPDUvOMk .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-ryLPDUvOMk .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-ryLPDUvOMk .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-ryLPDUvOMk ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-ryLPDUvOMk path {
-  stroke: #149dcc;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-ryLPDUvOMk .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
 }
 .cid-rywjTIdSd2 .navbar {
   padding: .5rem 0;
@@ -2103,6 +2044,9 @@ body {
     justify-content: center;
   }
 }
+.cid-ryMquc8AhT P {
+  text-align: left;
+}
 .cid-rywjTIdSd2 .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2504,6 +2448,113 @@ body {
 .cid-rywjTIdSd2 .nav-link:hover,
 .cid-rywjTIdSd2 .dropdown-item:hover {
   color: #b2ccd2 !important;
+}
+.cid-ryMOu3wOR8 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-ryMOKgLPyq {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ryMOKgLPyq .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ryMOLoogsp {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ryMOLoogsp .mbr-text,
+.cid-ryMOLoogsp blockquote {
+  color: #767676;
+}
+.cid-ryMPrF9bdr {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ryMPrF9bdr .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ryMPt2vGMF {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ryMPt2vGMF .mbr-text,
+.cid-ryMPt2vGMF blockquote {
+  color: #767676;
+}
+.cid-ryMPtRQG6r {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ryMPtRQG6r .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ryMPvtvGmE {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ryMPvtvGmE .mbr-text,
+.cid-ryMPvtvGmE blockquote {
+  color: #767676;
+}
+.cid-ryMPwuFOOO {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ryMPwuFOOO .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ryMPxsH9Id {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ryMPxsH9Id .mbr-text,
+.cid-ryMPxsH9Id blockquote {
+  color: #767676;
+}
+.cid-ryMRAxVkgV {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ryMRAxVkgV .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ryMRB2Faua {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ryMRB2Faua .mbr-text,
+.cid-ryMRB2Faua blockquote {
+  color: #767676;
+}
+.cid-ryMRBrlmr5 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ryMRBrlmr5 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ryMRBPBm9f {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ryMRBPBm9f .mbr-text,
+.cid-ryMRBPBm9f blockquote {
+  color: #767676;
 }
 .cid-rywjTIdSd2 .navbar {
   padding: .5rem 0;
@@ -2914,7 +2965,7 @@ body {
 }
 .cid-rywq8hKmYo {
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rywq8hKmYo .card-box {
