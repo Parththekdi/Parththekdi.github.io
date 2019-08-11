@@ -39,7 +39,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "UA-145443805-1"
   },
   "pages": {
     "index.html": {
