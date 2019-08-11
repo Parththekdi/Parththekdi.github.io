@@ -37,9 +37,9 @@
     "uniqCompNum": 2,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/93dd2d0c3b558620971c1a83937e6fcb-128x166-1.png",
     "noImageResize": "",
-    "google-analytics": "UA-145443805-1"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145443805-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145443805-1');\r\n</script>\r\n"
   },
   "pages": {
     "index.html": {
