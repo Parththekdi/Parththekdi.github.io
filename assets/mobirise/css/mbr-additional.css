@@ -2021,6 +2021,27 @@ body {
 .cid-ryMw8Q5Owh .card-title {
   text-align: center;
 }
+.cid-rBHOq6msPS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rBHOq6msPS .title {
+  margin-bottom: 2rem;
+}
+.cid-rBHOq6msPS .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rBHOq6msPS a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rBHOq6msPS a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rBHOq6msPS textarea.form-control {
+  min-height: 188px;
+}
 .cid-ryMquc8AhT {
   padding-top: 60px;
   padding-bottom: 60px;
